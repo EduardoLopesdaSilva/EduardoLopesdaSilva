@@ -1,10 +1,10 @@
 <h1> Hello, I'm Eduardo L. da Silva 
- 
-------------
+  <img src= "https://instagram.fcfc1-1.fna.fbcdn.net/v/t51.2885-19/487716016_609632428745443_2613096637293047349_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcfc1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEBrcnRTlsVtj633RdtSFq_8LqanN62Klz_MB7MktxgFKpzEqNmgtumv9wAY-3ZSio&_nc_ohc=UgUU1BNiHkkQ7kNvwF_yG6h&_nc_gid=ExbGMRYBI1Et1G3EX9MQpw&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfKya4naC4Gj5Cv1-UQOLLkh5oqAgu4vsWQSrVTOCVb5nA&oe=68342817&_nc_sid=56bdfd" 
+-----------
 
 <details>
   <summary>
-    <h2> About Me </h2>
+    <h1> About Me </h1>
   </summary>
   
 I am currently studying Systems Analysis and Development at SENAI, a two-year program that started on March 24. So far, I have completed subjects such as Applied Electronics Fundamentals and Programming Logic.
@@ -13,7 +13,7 @@ I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with
   
 <details>
   <summary>
-  <h3> 🏫 Education </h3>
+  <h2> 🏫 Education </h2>
   </summary>
   
 * Studying Systems Analysis and Development at Senai
