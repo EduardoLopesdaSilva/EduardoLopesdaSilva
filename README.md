@@ -9,8 +9,12 @@
   
 I am currently studying Systems Analysis and Development at SENAI, a two-year program that started on March 24. So far, I have completed subjects such as Applied Electronics Fundamentals and Programming Logic.
 I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with a final grade of 10.0. In addition, I am currently enrolled in a two-year English course at the same institution.
-
-  
+<body>
+        <div class="container">
+            <div class="links">
+                <a href="https://www.linkedin.com/in/eduardo-lopes-da-silva-5028a32b1/">LinkedIn</a>
+                <a href="https://github.com/EduardoLopesdaSilva">GitHub</a>
+                <a href="mailto:eduardo.rudolf008@gmail.com">E-mail</a>  
 <details>
   <summary>
   <h2> 🏫 Education </h2>
