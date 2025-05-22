@@ -31,4 +31,4 @@ I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with
   
 I really enjoy going to the gym and playing volleyball, soccer,
 and anything related to physical sports.
-I also love watching series and movies
+I also love watching series and movies 
