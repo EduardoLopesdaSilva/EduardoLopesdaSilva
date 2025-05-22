@@ -1,14 +1,10 @@
-## Hi there 👋
-
-
-  
-  <h1> Hello, I'm Eduardo L. da Silva 
+<h1> Hello, I'm Eduardo L. da Silva 
  
 ------------
 
 <details>
   <summary>
-    <h2>👩‍🦰 About Me </h2>
+    <h2> About Me </h2>
   </summary>
   
 I am currently studying Systems Analysis and Development at SENAI, a two-year program that started on March 24. So far, I have completed subjects such as Applied Electronics Fundamentals and Programming Logic.
@@ -36,10 +32,3 @@ I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with
 I really enjoy going to the gym and playing volleyball, soccer,
 and anything related to physical sports.
 I also love watching series and movies
-
-</details>
-  </details>
-
-------------
-<details>
-  <summary>
