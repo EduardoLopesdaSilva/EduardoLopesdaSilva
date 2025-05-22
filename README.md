@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**EduardoLopesdaSilva/EduardoLopesdaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+  <h1> Hello, I'm Eduardo L. da Silva 
+  <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/memoji_mi.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+
+<details>
+  <summary>
+    <h2>👩‍🦰 About Me </h2>
+  </summary>
+  
+I am currently studying Systems Analysis and Development at SENAI, a two-year program that started on March 24. So far, I have completed subjects such as Applied Electronics Fundamentals and Programming Logic.
+I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with a final grade of 10.0. In addition, I am currently enrolled in a two-year English course at the same institution.
+
+  
+<details>
+  <summary>
+  <h3> 🏫 Education </h3>
+  </summary>
+  
+* Studying Systems Analysis and Development at Senai
+* Finishing very average
+* studying English at Cebrac
+  
+</details>
+  
+<details> 
+  
+  <summary>
+
+  <h3> 📚 Learnings and Hobbies </h3>
+  </summary>
+  
+I really enjoy going to the gym and playing volleyball, soccer,
+and anything related to physical sports.
+I also love watching series and movies
+
+</details>
+  </details>
+
+------------
+<details>
+  <summary>
