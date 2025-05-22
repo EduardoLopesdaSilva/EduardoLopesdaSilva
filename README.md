@@ -3,8 +3,7 @@
 
   
   <h1> Hello, I'm Eduardo L. da Silva 
-  <a href="https://taggo.one/clcmo"><img src="https://github.com/clcmo/clcmo/blob/main/memoji_mi.png"  width="15%" align="right" alt="Memoji"/></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-
+ 
 ------------
 
 <details>
