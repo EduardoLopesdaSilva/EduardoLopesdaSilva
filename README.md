@@ -1,5 +1,5 @@
 <h1> Hello, I'm Eduardo L. da Silva 
-  <img src= "https://instagram.fcfc1-1.fna.fbcdn.net/v/t51.2885-19/487716016_609632428745443_2613096637293047349_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcfc1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEBrcnRTlsVtj633RdtSFq_8LqanN62Klz_MB7MktxgFKpzEqNmgtumv9wAY-3ZSio&_nc_ohc=UgUU1BNiHkkQ7kNvwF_yG6h&_nc_gid=ExbGMRYBI1Et1G3EX9MQpw&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfKya4naC4Gj5Cv1-UQOLLkh5oqAgu4vsWQSrVTOCVb5nA&oe=68342817&_nc_sid=56bdfd" 
+<a href="https://taggo.one/clcmo"><img src= "https://instagram.fcfc1-1.fna.fbcdn.net/v/t51.2885-19/487716016_609632428745443_2613096637293047349_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcfc1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEBrcnRTlsVtj633RdtSFq_8LqanN62Klz_MB7MktxgFKpzEqNmgtumv9wAY-3ZSio&_nc_ohc=UgUU1BNiHkkQ7kNvwF_yG6h&_nc_gid=ExbGMRYBI1Et1G3EX9MQpw&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfKya4naC4Gj5Cv1-UQOLLkh5oqAgu4vsWQSrVTOCVb5nA&oe=68342817&_nc_sid=56bdfd" 
 -----------
 
 <details>
@@ -37,18 +37,3 @@ I really enjoy going to the gym and playing volleyball, soccer,
 and anything related to physical sports.
 I also love watching series and movies 
 
-<body>
-        <div class="container">
-            <img src= "https://instagram.fcfc1-1.fna.fbcdn.net/v/t51.2885-19/487716016_609632428745443_2613096637293047349_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fcfc1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2QEBrcnRTlsVtj633RdtSFq_8LqanN62Klz_MB7MktxgFKpzEqNmgtumv9wAY-3ZSio&_nc_ohc=UgUU1BNiHkkQ7kNvwF_yG6h&_nc_gid=ExbGMRYBI1Et1G3EX9MQpw&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfKya4naC4Gj5Cv1-UQOLLkh5oqAgu4vsWQSrVTOCVb5nA&oe=68342817&_nc_sid=56bdfd"    alt="Foto de Eduardo Lopes da Silva">
-            <h1>Eduardo Lopes da Silva</h1>
-            <p>Desenvolvedor de Software | Backend</p>
-            <div class="links">
-                <a href="https://www.linkedin.com/in/eduardo-lopes-da-silva-5028a32b1/">LinkedIn</a>
-                <a href="https://github.com/EduardoLopesdaSilva">GitHub</a>
-                <a href="mailto:eduardo.rudolf008@gmail.com">E-mail</a>
-            </div>
-        </div>
-        <footer>
-            <p>&copy; 2025 Eduardo Lopes da Silva</p>
-        </footer>
-    </body>
