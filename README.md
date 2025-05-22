@@ -32,3 +32,19 @@ I have also completed a 60-hour Computer Skills course at CEBRAC, finishing with
 I really enjoy going to the gym and playing volleyball, soccer,
 and anything related to physical sports.
 I also love watching series and movies 
+
+<body>
+        <div class="container">
+            <img src="./images.jps/miranha.webp" alt="Foto de Eduardo Lopes da Silva">
+            <h1>Eduardo Lopes da Silva</h1>
+            <p>Desenvolvedor de Software | Backend</p>
+            <div class="links">
+                <a href="https://www.linkedin.com/in/eduardo-lopes-da-silva-5028a32b1/">LinkedIn</a>
+                <a href="https://github.com/EduardoLopesdaSilva">GitHub</a>
+                <a href="mailto:eduardo.rudolf008@gmail.com">E-mail</a>
+            </div>
+        </div>
+        <footer>
+            <p>&copy; 2025 Eduardo Lopes da Silva</p>
+        </footer>
+    </body>
